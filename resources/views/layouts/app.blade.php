@@ -27,7 +27,7 @@
             <!-- Logo -->
             <a href="{{route('admin.dashboard')}}" class="hidden-xs logo">
                 <span class="logo-mini"><b>{{config('settings.system_title')[0]}}</b></span>
-                <span class="logo-lg"><b>{{config('settings.system_title')}}</b></span>
+                <span class="logo-lg"><b>Policy & Procedure</b></span>
             </a>
 
             <!-- Header Navbar -->
