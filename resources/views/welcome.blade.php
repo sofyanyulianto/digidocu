@@ -12,13 +12,14 @@
     <!-- Styles -->
     <style>
         html, body {
-            background-color: #fff;
+            background-color: #DADADA;
             color: #575e62;
             font-family: 'Nunito', sans-serif;
             font-weight: 200;
             height: 100vh;
             margin: 0;
-            background-image: url("https://images.unsplash.com/photo-1468779036391-52341f60b55d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1521&q=80");
+            background-image: url("");
+            /* https://images.unsplash.com/photo-1468779036391-52341f60b55d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1521&q=80 */
             background-repeat: no-repeat;
             background-size: cover;
         }
@@ -87,7 +88,7 @@
 
         <div class="links">
             <blockquote>
-                {{$quotes}}
+                Sistem milik Pak Hanif Non Outing
             </blockquote>
         </div>
     </div>
